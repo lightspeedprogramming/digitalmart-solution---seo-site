@@ -60,7 +60,7 @@
                         <div class="left-content-wrapper">
                             <ul>
                                 <li><a href="tel:+x-xxx-xxx-xxxx"><i class="fa fa-phone"></i> +x-xxx-xxx-xxxx</a></li>
-                                <li><a href="mailto:contact@xyz.com"><i class="fa fa-envelope"></i> contact@xyz.com</a></li>
+                                <li><a href="mailto:contact@digitalsolutionbox.com"><i class="fa fa-envelope"></i> contact@digitalsolutionbox.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
             <nav class="navbar navbar-default bootsnav" data-spy="affix" data-offset-top="50">
                 <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
           <div class="container">
-            <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:+x-xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+            <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="mailto:digitalsolutionbox.com"><i class="fa fa-envelope" style="color:white;"></i> digitalsolutionbox.com</a></p>
           </div>
         </div>
 
@@ -83,7 +83,7 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a class="navbar-brand" href="index.php" style="font-size: 25px;padding: 49px 42px 0px;"><!-- <img src="assets/images/logo.png" class="logo" alt=""> -->Xyz Softwares</a>
+                        <a class="navbar-brand" href="index.php" style="font-size: 25px;padding: 49px 42px 0px;"><!-- <img src="assets/images/logo.png" class="logo" alt=""> -->Digital Solution Box</a>
                     </div>
                     <!-- End Header Navigation -->
 

@@ -1,5 +1,5 @@
 <?php
-    $title = "Search Engine Optimization || Xyz";
+    $title = "Search Engine Optimization || Digital Solution Box";
     include 'header.php';
 ?>
 
@@ -13,8 +13,8 @@
                             <div class="breadcrumb-inner">
                                 <h1 class="page-title">Search Engine Optimization</h1>
                                 <div class="breadcrumbs">
-                                    <a class="f-weight-700" href="index.php">Home</a> /
-                                    <span>Search Engine Optimization</span>
+                                    <a class="f-weight-700" href="index.php">Home</a> 
+                                    <span>/ Search Engine Optimization</span>
                                 </div>
                             </div>
                         </div>
@@ -38,8 +38,7 @@
                             <div class="company-info text-left">
                                 <!-- <span class="subtitle">Awesome Facts</span> -->
                                 <!-- <h2 class="f-weight-700 title">About Us</h2> -->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quae optio earum animi eveniet, necessitatibus deleniti, voluptatem nulla repudiandae soluta, pariatur consequuntur quisquam odit facere dignissimos. Asperiores minus veniam voluptatibus exercitationem eum esse quia ut quos reiciendis, at rem saepe suscipit molestias delectus tempore id numquam temporibus optio perferendis dignissimos iure illo sint quaerat?</p>
-                                <p> Soluta ratione aliquam necessitatibus nemo voluptatem suscipit ullam eligendi accusantium dolores maiores dicta, aperiam possimus rem. Necessitatibus perferendis deleniti voluptatum similique doloremque, sapiente molestias optio, voluptate debitis laudantium molestiae, culpa facilis, mollitia minima inventore. Necessitatibus perferendis deleniti mollitia.</p>
+                                <p>For many firms, SEO techniques that worked in the past are currently penalized by Google. it's essential to figure with an SEO knowledgeable that's a pacesetter in B2B SEO for thought-leadership and online complete positioning, thus you'll decrease competition through increased brand exposure i.e. Increase sales through better search engine program. Increase your worker productivity through our SEO services. Strategy comes initially for all aspects of web marketing.</p>
                             </div>
                         </div>
                     </div>

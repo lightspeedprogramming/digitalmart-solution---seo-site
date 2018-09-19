@@ -1,5 +1,5 @@
 <?php
-    $title = "Privacy Policy || Xyz";
+    $title = "Privacy Policy || Digital Solution Box";
     include 'header.php';
 ?>
 
@@ -35,7 +35,7 @@
                                <h2 class="mt-30 f-weight-700">PRIVACY POLICY</h2>
       
       <p class="mt-15">
-        Thank you for visiting xyz Softwares. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for xyz website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by xyz Softwares:
+        Thank you for visiting Digital Solution Box. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for Digital Solution Box website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by Digital Solution Box :
       </p>
 
       <h2 class="mt-30 f-weight-700">COLLECTION OF INFORMATION:</h2>

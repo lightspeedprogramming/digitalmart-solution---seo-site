@@ -1,5 +1,5 @@
 <?php
-    $title = "About Us || Xyz";
+    $title = "About Us || Digital Solution Box";
     include 'header.php';
 ?>
 
@@ -30,11 +30,19 @@
                     <!--Start Row-->
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="company-info text-center">
+                            <div class="company-info">
                                 <!-- <span class="subtitle">Awesome Facts</span> -->
-                                <h2 class="f-weight-700 title">About Us</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quae optio earum animi eveniet, necessitatibus deleniti, voluptatem nulla repudiandae soluta, pariatur consequuntur quisquam odit facere dignissimos. Asperiores minus veniam voluptatibus exercitationem eum esse quia ut quos reiciendis, at rem saepe suscipit molestias delectus tempore id numquam temporibus optio perferendis dignissimos iure illo sint quaerat?</p>
-                                <p> Soluta ratione aliquam necessitatibus nemo voluptatem suscipit ullam eligendi accusantium dolores maiores dicta, aperiam possimus rem. Necessitatibus perferendis deleniti voluptatum similique doloremque, sapiente molestias optio, voluptate debitis laudantium molestiae, culpa facilis, mollitia minima inventore. Necessitatibus perferendis deleniti mollitia.</p>
+                                <h2 class="f-weight-700 title text-center">About Us</h2>
+                                <p  style="font-size: 17px" class="text-left">At Digital Solution Box, we strive to offer you what you want from your digital promoting and website and to provide you with outcomes so one can exceed your expectations. We all understand what makes an internet site work and the way to harness the chances of the online to reinforce your business. In short, you tell to us what you desire and that we will supply it to you.</p>
+                               
+                                <ul class="text-left">
+                                    <li><i style="margin-left:0px;" class="fa fa-check"></i>One stop resolution for a Web, Mobile and Cloud Application across varied technological platforms.</li>
+                                    <li><i style="margin-left:0px;" class="fa fa-check"></i>Experienced material specialists across varied technology.</li>
+                                    <li><i style="margin-left:0px;" class="fa fa-check"></i>Domain expertise across e-Publishing, e-Commerce, m-Commerce, and print commerce, HR, take a look at Automation, conveyance, eLearning.</li>
+                                    <li><i style="margin-left:0px;" class="fa fa-check"></i>Attain more visibility into application discharge availability, support complexities, and development processes.</li>
+                                    <li><i  style="margin-left:0px;"class="fa fa-check"></i>Achieve complete management and transparency across the computer code development lifecycle.</li>
+                                </ul>
+
                             </div>
                         </div>
                     </div>

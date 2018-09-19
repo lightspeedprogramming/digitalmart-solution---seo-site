@@ -1,5 +1,5 @@
 <?php
-    $title = "Home || Xyz";
+    $title = "Home || Digital Solution Box";
     include "header.php";
 ?>
         
@@ -12,10 +12,8 @@
                     <div class="overlay"></div>
                     <div class="slide-caption">
                         <div class="slider-inner">
-                            <h1 class="caption-title text-left">Start Your New Business With Corporion</h1>
-                            <p class="caption-desc text-left">Unpleasant nor diminution excellence apartments imprudence the met new. Draw part them he an to he roof only. Music leave
-                                say doors him. Tore bred form if sigh case as do. Staying he no looking if do opinion. Sentiments way understood end
-                                partiality and his. </p>
+                            <h1 class="caption-title text-left">Business with innovative ideas</h1>
+                            <p class="caption-desc text-left">We are professional in guiding you.</p>
                             <div class="slide-btn">
                                 <a class="animated fadeInUpBig" href="contact.php">Learn More</a>
                                 
@@ -30,10 +28,8 @@
                     <div class="overlay"></div>
                     <div class="slide-caption">
                         <div class="slider-inner">
-                            <h1 class="caption-title">Start Your New Business With Corporion</h1>
-                            <p class="caption-desc">Unpleasant nor diminution excellence apartments imprudence the met new. Draw part them he an to he roof only. Music leave
-                                say doors him. Tore bred form if sigh case as do. Staying he no looking if do opinion. Sentiments way understood end
-                                partiality and his. </p>
+                            <h1 class="caption-title">Best Advancements</h1>
+                            <p class="caption-desc">We are professional in guiding you.</p>
                             <div class="slide-btn">
                                 <a class="animated fadeInUpBig" href="contact.php">Learn More</a>
                                 
@@ -48,10 +44,8 @@
                     <div class="overlay"></div>
                     <div class="slide-caption">
                        <div class="slider-inner">
-                            <h1 class="caption-title">Start Your New Business With Corporion</h1>
-                            <p class="caption-desc">Unpleasant nor diminution excellence apartments imprudence the met new. Draw part them he an to he roof only. Music leave
-                                say doors him. Tore bred form if sigh case as do. Staying he no looking if do opinion. Sentiments way understood end
-                                partiality and his. </p>
+                            <h1 class="caption-title">We build brands</h1>
+                            <p class="caption-desc">We are professional in guiding you.</p>
                             <div class="slide-btn">
                                 <a class="animated fadeInUpBig" href="contact.php">Learn More</a>
                                 
@@ -74,9 +68,9 @@
                         <div class="col-md-6">
                             <div class="company-info"><!-- 
                                 <span class="subtitle">Welcome To Digitalmart Solution</span> -->
-                                <h2 class="f-weight-700 title">Welcome To Digitalmart Solution</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quae optio earum animi eveniet, necessitatibus deleniti, voluptatem nulla repudiandae soluta, pariatur consequuntur quisquam odit facere dignissimos. Asperiores minus veniam voluptatibus exercitationem eum esse quia ut quos reiciendis, at rem saepe suscipit molestias delectus tempore id numquam temporibus optio perferendis dignissimos iure illo sint quaerat?</p>
-                                <p> Soluta ratione aliquam necessitatibus nemo voluptatem suscipit ullam eligendi accusantium dolores maiores dicta, aperiam possimus rem. Necessitatibus perferendis deleniti voluptatum similique doloremque, sapiente molestias optio, voluptate debitis laudantium molestiae, culpa facilis, mollitia minima inventore. Necessitatibus perferendis deleniti mollitia.</p>
+                                <h2 class="f-weight-700 title">Welcome To Digital Solution Box</h2>
+                                <p>We have long durations of enjoying in exploring the fast advancing automated scene and conveying excellent for digital marketing services. We have a protracted record of conveying effective commercial enterprise consequences for clients from various enterprise verticals. We owe this accomplishment to our saying of "Digital Excellence." Our manner of life of going well beyond to deliver results, regardless!</p>
+                                <p> Our Digital Promoting Organization carries lively advertisers and guaranteed specialists who are skilled at dealing with all components of virtual from Pursuit to Substance to Social to Paid Media to Outline and the whole thing in between. At Digital Solution Box, everyone has a motto of “Digital Excellence and knows what it takes to prevail. Each one of us lives by our motto of #Digital Excellence and knows what it takes to succeed.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -119,7 +113,7 @@
                                 </div>
                                <div class="content text-center">
                                     <h3 class="title f-weight-700">WEBSITE DESIGN & DEVELOPMENT</h3>
-                                    <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque sequi, voluptatem quia eveniet numquam reprehenderit facere culpa a repudiandae quos.</P>
+                                    <P>Digital Solution Box is a professional web design and development organization based all over the world. It is a complete-service issuer for corporate or character inquisitive about designing their design & improvement wishes of net-based projects. Digital Solution Box has been eligible to offer the first-class of services to our clients the world over remaining to our years of revel in web site design and net improvement. It is considered one of India's leading website design, net merchandising, software program development, and internet development agency. We provide time sure, fee effective and value-added services for technology progressive enterprise solutions that require specialized area understanding. We also offer responsive internet site designing.</P>
                                     
                                </div>
                             </div>
@@ -138,8 +132,11 @@
                                 </div>
                                 <div class="content text-center">
                                     <h3 class="f-weight-700 title">APPLICATION DEVELOPMENT</h3>
-                                    <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque sequi, voluptatem quia eveniet numquam reprehenderit
-                                        facere culpa a repudiandae quos.</P>
+                                    <P>Application development refers to the formation of packages for use on gadgets like tablets, cell phones, and smart watches. Mobile device alternatives corresponding to cameras, region chase could be applied to shape one in every of a shape and inventive cell programs for matters, maybe, taxi and auto-sharing. </P>
+
+                                    <p>
+                                        Smartphones frequently have the latest packages for looking out, browsing, gaming, and social media preinstalled and buyers will switch and introduce additional applications from Google Play and Apple App Store. Mobile apps are composed and worked for numerous running frameworks and engineers can get to recognize a manner to paintings for each of the Android frameworks.
+                                    </p>
                                     
                                 </div>
                             </div>
@@ -158,8 +155,11 @@
                                 </div>
                                 <div class="content text-center">
                                     <h3 class="title f-weight-700">SEARCH ENGINE OPTIMIZATION</h3>
-                                    <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque sequi, voluptatem quia eveniet numquam reprehenderit
-                                        facere culpa a repudiandae quos.</P>
+                                    <P>Search engine optimization is short for SEO. Search engine optimization is a method of strategies, techniques, and tactics used to grow the number of site visitors to an internet site through acquiring a high-rating placement inside the seek results page of a search engine (SERP) — including Google, Bing, Yahoo, and other search engines.</P>
+
+                                    <p>
+                                        Through our agency SEO offerings, we have a tendency to goal a comprehensive search engine marketing approach for your agency-level website. Irrespective of whether or not or not you’re a worldwide e-commerce internet site with thousands of products, a web hub for many corporation services, and expand into the global marketplace, all of us understand that even massive organizations may be tough to hunt down.
+                                    </p>
                                     
                                 </div>
                             </div>

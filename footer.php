@@ -9,7 +9,7 @@
                             <div class="footer-about">
                                 <!-- <img src="assets/images/logo-white.png" class="img-responsive" alt="Image"> -->
                                 <h3>About Us</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis dolorum modi atque quidem sunt cum quas corrupti labore sit odio.</p>
+                                <p>Digital Solution Box, we strive to offer you what you want from your digital promoting and website and to provide you with outcomes so one can exceed your expectations. </p>
                                <!-- <h3 class="title">Follow Us</h3>
                                  <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -41,7 +41,7 @@
                                         <ul>
                                             <!-- <li><a href="web.php"><i class="fa fa-angle-double-right"></i> Web Design & Development</a></li> -->
                                             <li><a href="web-design.php"><i class="fa fa-angle-double-right"></i> Website Designing</a></li>
-                                            <li><a href="web-dev.php"><i class="fa fa-angle-double-right"></i> Website Development</a></li>
+                                            <li><a href="app-dev.php"><i class="fa fa-angle-double-right"></i> Application Development</a></li>
                                             <li><a href="seo.php"><i class="fa fa-angle-double-right"></i> Seo Services</a></li>
                                             <li><a href="contact.php"><i class="fa fa-angle-double-right"></i> Contact</a></li>
                                         </ul>
@@ -53,9 +53,9 @@
                             <div class="footer-contact-info">
                                 <h3>Contact info</h3>
                                 <ul>
-                                    <li><a><i class="fa fa-envelope"></i> info@Xyz.com</a></li>
-                                    <li><a href="tel: +x-xxx-xxx-xxxx"><i class="fa fa-phone"></i> +x-xxx-xxx-xxxx</a></li>
-                                    <li><a><i class="fa fa-map-marker"></i> xxxxxxxxxxxxxx</a></li>
+                                    <li><a href="mailto:digitalsolutionbox.com"><i class="fa fa-envelope"></i> contact@digitalsolutionbox.com</a></li>
+                                    <!-- <li><a href="tel: +x-xxx-xxx-xxxx"><i class="fa fa-phone"></i> +x-xxx-xxx-xxxx</a></li> -->
+                                    <li><a><i class="fa fa-map-marker"></i> House Number - 41,Village-Balli P.O- Rajwat, Kotdwar, Uttarakhand- 246124</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
             <!--Start Footer Bottom-->
             <div class="footer-bottom">
                 <div class="copyright-text text-center">
-                    <p class="color-white f-weight-500 margin-0">Copyright &copy; 2018 Xyz.All Rights Reserved 2018</p>
+                    <p class="color-white f-weight-500 margin-0">Copyright &copy; 2018 Digital Solution Box.All Rights Reserved 2018</p>
                 </div>
             </div>
             <!--End Footer Bottom-->

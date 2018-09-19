@@ -1,5 +1,5 @@
 <?php
-    $title = "Services || Xyz";
+    $title = "Services || Digital Solution Box";
     include 'header.php';
 ?>
 
@@ -34,9 +34,9 @@
                             <!-- <span class="subtitle">News Updates</span> -->
                             <h2 class="f-weight-700 margin-0">What Can We Do For You</h2>
                             <div class="border"></div>
-                            <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some
+                            <!-- <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some
                                 form.
-                            </p>
+                            </p> -->
                         </div>
                         <!--End Heading Title-->
                     </div>
@@ -63,7 +63,7 @@
                                     <span><a href="#"><i class="fa fa-user-o"></i> John Doe</a></span> -->
                                 </div>
                                 <div class="post-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse repellat in ipsam modi sunt facere id officia distinctio quidem quasi odio assumenda fugiat commodi quo dicta quisquam facilis, quis ullam consequatur quam ratione.</p>
+                                    <p>We give you a unique plan. With a custom website design, it is made only for your business. Your site will not be the same as anybody else's. By contracting the correct web group, it will be developed so it is web crawler cordial. How the coding of your site is done will impact your accomplishment in the web crawlers. The site will be more versatile for your business or organization's needs.</p>
                                     
                                 </div>
                                  <a class="f-weight-600 readmore" href="web-design.php">Read More <i class="fa fa-angle-double-right"></i></a> 
@@ -79,22 +79,22 @@
                         <article class="blog-post latest">
                             <div class="post-media">
                                 <a href="web-dev.php">
-                                    <img class="img-responsive" src="assets/images/Web-Development.jpg" alt="image">
+                                    <img class="img-responsive" src="assets/images/application-img - Copy.jpg" alt="image">
                                 </a>
                             </div>
                             <div class="content"> 
                                 <div class="post-meta">
                                     <h2 class="post-title">
-                                        <a href="web-dev.php">Web Development</a>
+                                        <a href="web-dev.php">App Development</a>
                                     </h2>
                                     
                                 </div>
                                 <div class="post-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse repellat in ipsam modi sunt facere id officia distinctio quidem quasi odio assumenda fugiat commodi quo dicta quisquam facilis, quis ullam consequatur quam ratione.</p>
+                                    <p>We have developed over two hundred native shopper and enterprise apps for mobile platforms together with iOS and Android. We are partners of the iOS App Developer Program, a registered Google Play Developer, and a Silver Partner for the Samsung Enterprise Alliance Program. This suggests we've access to the newest tools, frameworks, and SDKs to develop updated and latest apps on the subsequent mobile platforms.</p>
                                     
                                 </div>
 
-                                <a class="f-weight-600 readmore" href="web-dev.php">Read More <i class="fa fa-angle-double-right"></i></a> 
+                                <a class="f-weight-600 readmore" href="app-dev.php">Read More <i class="fa fa-angle-double-right"></i></a> 
                             </div>
                         </article>
                         <!--End Article-->
@@ -118,7 +118,7 @@
                                     
                                 </div>
                                 <div class="post-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse repellat in ipsam modi sunt facere id officia distinctio quidem quasi odio assumenda fugiat commodi quo dicta quisquam facilis, quis ullam consequatur quam ratione.</p>
+                                    <p>For many firms, SEO techniques that worked in the past are currently penalized by Google. it's essential to figure with an SEO knowledgeable that's a pacesetter in B2B SEO for thought-leadership and online complete positioning, thus you'll decrease competition through increased brand exposure i.e. Increase sales through better search engine program. Increase your worker productivity through our SEO services. Strategy comes initially for all aspects of web marketing.</p>
                                     
                                 </div>
 

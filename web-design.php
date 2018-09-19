@@ -1,5 +1,5 @@
 <?php
-    $title = "Website Designing || Xyz";
+    $title = "Website Designing || Digital Solution Box";
     include 'header.php';
 ?>
 
@@ -13,8 +13,8 @@
                             <div class="breadcrumb-inner">
                                 <h1 class="page-title">Website Designing</h1>
                                 <div class="breadcrumbs">
-                                    <a class="f-weight-700" href="index.php">Home</a> /
-                                    <span>Website Designing</span>
+                                    <a class="f-weight-700" href="index.php">Home</a> 
+                                    <span>/ Website Designing</span>
                                 </div>
                             </div>
                         </div>
@@ -38,8 +38,9 @@
                             <div class="company-info text-left">
                                 <!-- <span class="subtitle">Awesome Facts</span> -->
                                 <!-- <h2 class="f-weight-700 title">About Us</h2> -->
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quae optio earum animi eveniet, necessitatibus deleniti, voluptatem nulla repudiandae soluta, pariatur consequuntur quisquam odit facere dignissimos. Asperiores minus veniam voluptatibus exercitationem eum esse quia ut quos reiciendis, at rem saepe suscipit molestias delectus tempore id numquam temporibus optio perferendis dignissimos iure illo sint quaerat?</p>
-                                <p> Soluta ratione aliquam necessitatibus nemo voluptatem suscipit ullam eligendi accusantium dolores maiores dicta, aperiam possimus rem. Necessitatibus perferendis deleniti voluptatum similique doloremque, sapiente molestias optio, voluptate debitis laudantium molestiae, culpa facilis, mollitia minima inventore. Necessitatibus perferendis deleniti mollitia.</p>
+                                <p>We give you a unique plan. With a custom website design, it is made only for your business. Your site will not be the same as anybody else's. By contracting the correct web group, it will be developed so it is web crawler cordial. How the coding of your site is done will impact your accomplishment in the web crawlers. The site will be more versatile for your business or organization's needs.</p>
+                             
+                               
                             </div>
                         </div>
                     </div>

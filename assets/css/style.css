@@ -85,6 +85,17 @@ Version     :   1.0
     margin-left: 20px;
 }
 
+.company-info ul li
+{
+    font-size: 17px;
+    color: #323232;
+}
+
+.post-content ul li
+{
+
+}
+
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800|Roboto:400,500,700");
 html,
 body {
@@ -1069,7 +1080,7 @@ p {
     About Us Page
 ====================================================*/
 .about-wrap {
-    padding: 120px 0 0px 0;
+    padding: 120px 0 120px 0;
 }
 
 .company-info .title {
@@ -1088,7 +1099,7 @@ p {
 .company-info p {
     font-size: 16px;
     line-height: 26px;
-    color: #777;
+    color: #323232;
 }
 .company-info{
     padding-bottom: 110px;
